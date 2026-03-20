@@ -33,6 +33,7 @@ const router = createRouter({
           path: 'opiniones',
           component: OpinionesView,
           name: 'opiniones',
+          props: true,
         },
       ],
     },
