@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "nombre": "Producto 1",
+    "precio": 100,
+    "descripcion": "Descripcion del producto 1",
+    "opiniones": [
+      { "id": 1, "texto": "Opinion 1", "calificacion": 5 },
+      { "id": 2, "texto": "Opinion 2", "calificacion": 4 },
+      { "id": 3, "texto": "Opinion 3", "calificacion": 3 },
+      { "id": 4, "texto": "Opinion 4", "calificacion": 2 },
+      { "id": 5, "texto": "Opinion 5", "calificacion": 1 }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Producto 2",
+    "precio": 200,
+    "descripcion": "Descripcion del producto 2",
+    "opiniones": [
+      { "id": 1, "texto": "Opinion 1", "calificacion": 5 },
+      { "id": 2, "texto": "Opinion 2", "calificacion": 4 },
+      { "id": 3, "texto": "Opinion 3", "calificacion": 3 },
+      { "id": 4, "texto": "Opinion 4", "calificacion": 2 },
+      { "id": 5, "texto": "Opinion 5", "calificacion": 1 }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Producto 3",
+    "precio": 300,
+    "descripcion": "Descripcion del producto 3",
+    "opiniones": [
+      { "id": 1, "texto": "Opinion 1", "calificacion": 5 },
+      { "id": 2, "texto": "Opinion 2", "calificacion": 4 },
+      { "id": 3, "texto": "Opinion 3", "calificacion": 3 },
+      { "id": 4, "texto": "Opinion 4", "calificacion": 2 },
+      { "id": 5, "texto": "Opinion 5", "calificacion": 1 }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Producto 4",
+    "precio": 400,
+    "descripcion": "Descripcion del producto 4",
+    "opiniones": [
+      { "id": 1, "texto": "Opinion 1", "calificacion": 5 },
+      { "id": 2, "texto": "Opinion 2", "calificacion": 4 },
+      { "id": 3, "texto": "Opinion 3", "calificacion": 3 },
+      { "id": 4, "texto": "Opinion 4", "calificacion": 2 },
+      { "id": 5, "texto": "Opinion 5", "calificacion": 1 }
+    ]
+  }
+]
